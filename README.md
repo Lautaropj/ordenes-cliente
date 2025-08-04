@@ -1,10 +1,15 @@
-<img width="150" height="150" alt="039b2e1c-6533-45c6-bc71-c528e153d201" src="https://github.com/user-attachments/assets/34643811-bfcf-4613-a10d-6fb7692926fc" />
-<h1 align="center">Órdenes del Cliente</h1>
-<p align="center">
-  Aplicación de escritorio desarrollada con Tkinter para consultar órdenes de clientes desde una base de datos SQL Server.
-</p>
+<table>
+  <tr>
+    <td>
+      <img width="100" height="100" alt="039b2e1c-6533-45c6-bc71-c528e153d201" src="https://github.com/user-attachments/assets/6f9a833d-51cc-4804-9ef9-a9a0ce6c1414" />
+    </td>
+    <td>
+      <h1>Órdenes del Cliente</h1>
+      <p>Aplicación de escritorio desarrollada con Tkinter para consultar órdenes de clientes desde una base de datos SQL Server.</p>
+    </td>
+  </tr>
+</table>
 
-Aplicación de escritorio desarrollada con Tkinter para consultar órdenes de clientes desde una base de datos SQL Server.
 
 ## Descripción
 
